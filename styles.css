@@ -1,0 +1,29 @@
+
+
+body {
+    padding: 10px;
+    background-color: ;
+    font-size: 150%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+h1 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+
+
+li {
+margin-bottom: 10px;
+}
+
+a {
+    padding: 4px;
+    color: #F23CA6;
+}
+
+.pink {
+        color: #F23CA6;
+}
